@@ -1,5 +1,5 @@
-package br.com.ada.pooii;
-public class Main {
+package br.com.ada.pooii.Aula1;
+public class MainAbstract {
     public static void main(String[] args) {
 
         ContaCorrente cc = new ContaCorrente();
