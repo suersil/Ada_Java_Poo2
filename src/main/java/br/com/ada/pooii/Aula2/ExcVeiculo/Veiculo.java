@@ -1,4 +1,4 @@
-package br.com.ada.pooii.Aula2.Veiculo;
+package br.com.ada.pooii.Aula2.ExcVeiculo;
 
 public interface Veiculo {
 //  Codigo invalido pois a velocidade seria atribuida a todos os veiculos

@@ -1,4 +1,4 @@
-package br.com.ada.pooii.Aula2.Veiculo;
+package br.com.ada.pooii.Aula2.ExcVeiculo;
 
 public interface VeiculoMotorizado {
 

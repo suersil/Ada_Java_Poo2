@@ -1,4 +1,4 @@
-package br.com.ada.pooii.Aula2.Shape;
+package br.com.ada.pooii.Aula2.ExcShape;
 
 public class Triangulo implements Shape{
     @Override
