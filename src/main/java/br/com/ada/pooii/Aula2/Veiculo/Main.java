@@ -1,7 +1,5 @@
 package br.com.ada.pooii.Aula2.Veiculo;
 
-import Moto;
-
 public class Main {
 
     public static void main(String[] args){
