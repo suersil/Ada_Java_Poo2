@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a90c6a0-ab45-4e1b-9f4c-06e91d6e2cdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula3/ExercicioGenerics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula3/ExercicioGenerics/MinhaLista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula3/ExercicioGenerics/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula3/Casting2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula3/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula3/Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula3/ExercicioGenerics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula3/ExercicioGenerics/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -82,7 +82,7 @@
       <updated>1704754234687</updated>
       <workItem from="1704754236234" duration="9965000" />
       <workItem from="1704839046277" duration="16590000" />
-      <workItem from="1705097834246" duration="8985000" />
+      <workItem from="1705097834246" duration="11916000" />
     </task>
     <servers />
   </component>
