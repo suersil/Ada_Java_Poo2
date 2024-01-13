@@ -1,5 +1,9 @@
 package br.com.ada.pooii.Aula1;
 
+/**
+    Interface nada mais que uma espécie de contrato de regras que uma classes deve seguir em um determinado contexto.
+    Como em Java não existe herança múltipla, a interface passa a ser uma alternativa.
+ */
 public class MainInterface {
 
     public static void main(String[] args) {

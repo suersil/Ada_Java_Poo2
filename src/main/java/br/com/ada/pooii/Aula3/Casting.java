@@ -6,19 +6,21 @@ import java.util.List;
 public class Casting {
     public static void main(String[] args) {
 
-        //Casting - to convert a data Type to another Type.
+      /*  Casting - to convert a data Type to another Type.
 
-        //IMPLICIT Casting - happens automatically when converting from a narrower range data type to a wider range data type.
-        // -> converting an int to a double/float/long
+        IMPLICIT Casting - happens automatically when converting from a narrower range data type to a wider range data type.
+         -> converting an int to a double/float/long
+
+       */
 
             double d1 = 4;        // int -> double  - Declarando um double para guardar um valor int (Casting Automatico)
             double d2 = 5.7f;     // float -> double
             long l1 = 100;        // int -> long
 
 
-        //EXPLICIT Casting - doesn't happen automatically. Should be done by the programmer when converting from a wider to a narrower data type.
-        // -> converting a double/float/long to an int
-
+       /* EXPLICIT Casting - doesn't happen automatically. Should be done by the programmer when converting from a wider to a narrower data type.
+         -> converting a double/float/long to an int
+       */
         //  int i1 = 4.5; - ERROR  (int é menor que double) - Explicit cast should be used in this case:
             int i1 = (int) 4.5;  //Some data will be lost -> 4.5 = 4;
             int i2 = (int) 8L;   // 8L = 8;
