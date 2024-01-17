@@ -48,7 +48,7 @@ public class Main {
         System.out.println(numero);
     }
     public static void imprimirNumerosSemWildcard(List<Number> numeros) {
-        for (Number ngit sta : numeros) System.out.println(n);
+        for (Number n : numeros) System.out.println(n);
     }
 
     //WILDNUMBER:

@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a90c6a0-ab45-4e1b-9f4c-06e91d6e2cdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula4/Generics/WildCard/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula4/Generics/WildCard/CarroEletrico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula4/Generics/WildCard/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula4/Generics/WildCard/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula4/Generics/WildCard/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Estudos/Generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Estudos/Generics/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Estudos/WildCard/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Estudos/arraysVsArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula5/Exercicio_Pilha/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula5/Exercicio_Pilha/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula5/Exercicio_Pilha/StackImplementacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula4/Generics/WildCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula4/Generics/WildCard/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula4/Generics/WildCard/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -47,6 +52,7 @@
     "Application.MainGenerics.executor": "Run",
     "Application.MainInteface.executor": "Run",
     "Application.MainInterface.executor": "Run",
+    "Application.arraysVsArrayList.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -86,7 +92,7 @@
       <updated>1704754234687</updated>
       <workItem from="1704754236234" duration="9965000" />
       <workItem from="1704839046277" duration="16590000" />
-      <workItem from="1705097834246" duration="24455000" />
+      <workItem from="1705097834246" duration="49750000" />
     </task>
     <servers />
   </component>
