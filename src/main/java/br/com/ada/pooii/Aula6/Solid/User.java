@@ -1,4 +1,4 @@
-package br.com.ada.pooii.Aula6.Solid_SRP;
+package br.com.ada.pooii.Aula6.Solid;
 
 //https://github.com/jorgeelucas/pooii/blob/develop/src/main/java/br/com/ada/pooii/leitura/solid.md
 public class User {

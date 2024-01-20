@@ -1,6 +1,4 @@
-package br.com.ada.pooii.Aula6.Solid_SRP;
-
-import br.com.ada.pooii.Aula6.Solid_SRP.User;
+package br.com.ada.pooii.Aula6.Solid;
 
 public class UserRepository {
     public void saveUser(User user) {

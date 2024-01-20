@@ -5,23 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a90c6a0-ab45-4e1b-9f4c-06e91d6e2cdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/CPFService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/CalcularTotalPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/ConfirmarPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/EnviarPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/ImprimirPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/TratarPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/SMSService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/TransactionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/TransactionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Estudos/arraysVsArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Estudos/arraysVsArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula5/Exercicio_Pilha/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula5/Exercicio_Pilha/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula5/Exercicio_Pilha/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula5/Exercicio_Pilha/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula5/Exercicio_Pilha/StackImplementacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula5/Exercicio_Pilha/StackImplementacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/CPFService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/CPFService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/CalcularTotalPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/CalcularTotalPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/ConfirmarPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/ConfirmarPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/EnviarPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/EnviarPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/ImprimirPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/ImprimirPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/Exc/TratarPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/TratarPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/SMSService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/SMSService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid_SRP/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/UserRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,7 @@
       <updated>1704754234687</updated>
       <workItem from="1704754236234" duration="9965000" />
       <workItem from="1704839046277" duration="16590000" />
-      <workItem from="1705097834246" duration="60902000" />
+      <workItem from="1705097834246" duration="62474000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package br.com.ada.pooii.Aula6.Solid_SRP.Exc;
+package br.com.ada.pooii.Aula6.Solid.ExcSRP;
 
 public class ConfirmarPedido {
     public void enviarEmailConfirmacao(String mensagem) {

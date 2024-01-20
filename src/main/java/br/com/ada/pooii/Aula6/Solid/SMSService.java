@@ -1,4 +1,4 @@
-package br.com.ada.pooii.Aula6.Solid_SRP;
+package br.com.ada.pooii.Aula6.Solid;
 
 public class SMSService {
     public void sendSMS(User user, String message) {
