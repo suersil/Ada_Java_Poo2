@@ -35,6 +35,7 @@ public class StackImplementacao<E> implements Stack<E> {
     @Override
     public boolean isEmpty() {
       //  return listaIntena.size() == 0;
-        return listaIntena.isEmpty();
+        return listaIntena.isEmpty();  //Metodo proprio do Java
     }
+
 }

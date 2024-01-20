@@ -10,19 +10,39 @@ public class arraysVsArrayList {
 
         //Declarando ARRAY:
 //      String[] friendsArray = new String[4];  (2 formas de declarar)
-        String[] friendsArray = {"jhon", "ana", "sue", "beth"};
+        String[] friendsArray = {"Jhon", "Ana", "Sue", "Beth"};
 
         //Declarando ARRAY LIST:
-        ArrayList<String> friendsArrayList = new ArrayList<>(Arrays.asList("jhon", "ana", "sue", "beth")); //as.List - mutaveis
+        ArrayList<String> friendsArrayList = new ArrayList<>(Arrays.asList ("jhon", "ana", "sue", "beth")); //as.List - mutaveis
 
         //Imprindo:
 
-        // valor na posicao:
+        // valor na posicao: //Get elemente
         System.out.println(friendsArray[0]);
         System.out.println(friendsArrayList.get(0));
 
-        //tamanho array:
+        //tamanho array: //Get size
         System.out.println(friendsArray.length);
         System.out.println(friendsArrayList.size());
+
+        //Adicinando elementos ao ArrayList (Não pode ser feito em Arrays) //Ad element
+        friendsArrayList.add("Ágata");
+
+        //Set an element ([posição], "elemento")
+        friendsArray[0] = "Carol";
+        friendsArrayList.set(0, "Carol");
+        System.out.println(friendsArrayList.get(0));
+        System.out.println(friendsArray[0]);
+
+        //Remove an element (Can't do with Arrays)
+        friendsArrayList.remove(0);
+        System.out.println(friendsArrayList.get(0));
+
+        //Print
+        System.out.println(friendsArray); //Memoria do array
+        System.out.println(friendsArrayList);
     }
 }
+
+/** https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
+
