@@ -1,4 +1,4 @@
-package br.com.ada.pooii.Aula6.Solid;
+package br.com.ada.pooii.Aula6.Solid.SingleResposability;
 
 //https://github.com/jorgeelucas/pooii/blob/develop/src/main/java/br/com/ada/pooii/leitura/solid.md
 public class User {

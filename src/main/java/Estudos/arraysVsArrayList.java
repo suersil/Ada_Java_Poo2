@@ -41,8 +41,18 @@ public class arraysVsArrayList {
         //Print
         System.out.println(friendsArray); //Memoria do array
         System.out.println(friendsArrayList);
+
+        //For each loop - ARRAY
+        /**for (type variableName : arrayName) {
+            // code block to be executed
+        }*/
+
+        String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+        for (String i : cars) {
+            System.out.println(i);
+        }
     }
 }
 
-/** https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
+/** https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html*/
 

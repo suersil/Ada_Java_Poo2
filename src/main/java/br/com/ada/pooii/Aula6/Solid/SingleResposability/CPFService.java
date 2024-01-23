@@ -1,4 +1,4 @@
-package br.com.ada.pooii.Aula6.Solid;
+package br.com.ada.pooii.Aula6.Solid.SingleResposability;
 
 public class CPFService {
     public boolean isValidCPF() {

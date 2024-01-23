@@ -2,13 +2,25 @@ package br.com.ada.pooii.Aula6.Solid.ExcSRP;
 
 import java.util.List;
 
-public class Pedido {
-    private long id;
-    private List<Item> itens;
+public record Pedido<item>(long id){
+    public double calcularTotalPedido() {
+        return 0.0;
+    }
+    public List<Item> getItens() {
+        return null;
+    }
+    public long getQtdItens() {
+        return 0;
+    }
+    public void addItem(Item item) {
 
-    // getters e setters
+    }
+    public void deletarItem(Item item) {
+
+    }
+
+
 }
-
 /**public class Pedido {
     public double calcularTotalPedido() {}
     public List<Item> getItens() {}

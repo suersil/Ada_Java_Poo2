@@ -1,6 +1,6 @@
 package br.com.ada.pooii.Aula6.Solid.ExcSRP;
 
-public class ImprimirPedido {
+public class Imprimir {
     public void imprimirPedido() {
 
     }
