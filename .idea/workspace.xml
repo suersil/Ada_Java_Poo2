@@ -5,21 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a90c6a0-ab45-4e1b-9f4c-06e91d6e2cdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/AfterWorkingHoursRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/DailyLimitRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/EuropeRuleChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/EuropeRules1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/EuropeRules2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/RuleChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/SOLID_ResolucaoExercicio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Estudos/arraysVsArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Estudos/arraysVsArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/CPFService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/SingleResposability/CPFService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/SingleResposability/EmailService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/CalcularTotalPedido.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/ConfirmarPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/ConfirmarPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/EnviarPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/EnviarPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/ImprimirPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/Imprimir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/TratarPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcSRP/TratarPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/SMSService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/SingleResposability/SMSService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/SingleResposability/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/SingleResposability/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/TransactionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/TransactionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/TransactionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/TransactionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Record" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -53,29 +49,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ExemploClasseGenerica.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MainAbstract.executor": "Run",
-    "Application.MainGenerics.executor": "Run",
-    "Application.MainInteface.executor": "Run",
-    "Application.MainInterface.executor": "Run",
-    "Application.arraysVsArrayList.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Suelen Silva/Java/ADA_MODULO2/Aula1/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ExemploClasseGenerica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainAbstract.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainGenerics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainInteface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arraysVsArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Suelen Silva/Java/ADA_MODULO2/Aula1/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Ada_Java_Poo2" />
@@ -101,7 +97,8 @@
       <updated>1704754234687</updated>
       <workItem from="1704754236234" duration="9965000" />
       <workItem from="1704839046277" duration="16590000" />
-      <workItem from="1705097834246" duration="71789000" />
+      <workItem from="1705097834246" duration="76686000" />
+      <workItem from="1706130206170" duration="4252000" />
     </task>
     <servers />
   </component>

@@ -3,6 +3,7 @@ package br.com.ada.pooii.Aula6.Solid.ExcOCS;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
+
 public class Transaction {
     private BigDecimal amount;
     private String stock;
@@ -24,5 +25,14 @@ public class Transaction {
 
     public LocalDateTime getCreated() {
         return created;
+    }
+
+    @Override
+    public String toString() {
+        return "Transaction{" +
+                "amount=" + amount +
+                ", stock='" + stock + '\'' +
+                ", created=" + created +
+                '}';
     }
 }

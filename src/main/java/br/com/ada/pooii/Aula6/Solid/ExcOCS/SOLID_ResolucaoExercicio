@@ -1,0 +1,15 @@
+
+    *SRP
+Transaction Manager: parou de gerenciar as regras
+
+    *OCP
+Transaction Manager: aberta para novas regras e fechada para modificação
+
+    *LSP
+Transaction Manager: podemos substituir RuleChecker por qualquer implementação
+
+    *ISP
+RuleChecker: recebeu uma segregação quando outro grupo de regras foi preciso
+
+    *DIP
+Transaction manager: agora depende de uma lista de abstrações e não implementações
