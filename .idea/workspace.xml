@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a90c6a0-ab45-4e1b-9f4c-06e91d6e2cdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/AfterWorkingHoursRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/DailyLimitRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/EuropeRuleChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/EuropeRules1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/EuropeRules2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/RuleChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/SOLID_ResolucaoExercicio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula8/ExcISP/AdvancedPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula8/ExcISP/Copyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula8/ExcISP/EconomicPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula8/ExcISP/Faxable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula8/ExcISP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula8/ExcISP/MultifunctionPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula8/ExcISP/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula8/ExcISP/Scannable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/TransactionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/TransactionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/TransactionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/Aula6/Solid/ExcOCS/TransactionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -98,7 +96,7 @@
       <workItem from="1704754236234" duration="9965000" />
       <workItem from="1704839046277" duration="16590000" />
       <workItem from="1705097834246" duration="76686000" />
-      <workItem from="1706130206170" duration="4252000" />
+      <workItem from="1706130206170" duration="5974000" />
     </task>
     <servers />
   </component>
